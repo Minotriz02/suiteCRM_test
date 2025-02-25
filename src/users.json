@@ -1,182 +1,182 @@
 [
   {
     "name": "Carlos",
-    "lastName": "Gómez",
-    "cell": "3001234567",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Bogotá, Colombia"
+    "last_name_c": "Gómez",
+    "phone_mobile_c": "3001234567",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Bogotá, Colombia"
   },
   {
     "name": "María",
-    "lastName": "Rodríguez",
-    "cell": "3209876543",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": true,
-    "location": "Medellín, Colombia"
+    "last_name_c": "Rodríguez",
+    "phone_mobile_c": "3209876543",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Medellín, Colombia"
   },
   {
     "name": "Andrés",
-    "lastName": "Pérez",
-    "cell": "3105678945",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Cali, Colombia"
+    "last_name_c": "Pérez",
+    "phone_mobile_c": "3105678945",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Cali, Colombia"
   },
   {
     "name": "Lucía",
-    "lastName": "Ramírez",
-    "cell": "3134567890",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": false,
-    "location": "Barranquilla, Colombia"
+    "last_name_c": "Ramírez",
+    "phone_mobile_c": "3134567890",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Barranquilla, Colombia"
   },
   {
     "name": "José",
-    "lastName": "Martínez",
-    "cell": "3004561237",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Cartagena, Colombia"
+    "last_name_c": "Martínez",
+    "phone_mobile_c": "3004561237",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Cartagena, Colombia"
   },
   {
     "name": "Ana",
-    "lastName": "Hernández",
-    "cell": "3167890452",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": true,
-    "location": "Bogotá, Colombia"
+    "last_name_c": "Hernández",
+    "phone_mobile_c": "3167890452",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Bogotá, Colombia"
   },
   {
     "name": "Felipe",
-    "lastName": "Torres",
-    "cell": "3141239087",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Cúcuta, Colombia"
+    "last_name_c": "Torres",
+    "phone_mobile_c": "3141239087",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Cúcuta, Colombia"
   },
   {
     "name": "Valentina",
-    "lastName": "García",
-    "cell": "3017894325",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Pereira, Colombia"
+    "last_name_c": "García",
+    "phone_mobile_c": "3017894325",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Pereira, Colombia"
   },
   {
     "name": "Ricardo",
-    "lastName": "López",
-    "cell": "3204567891",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": false,
-    "location": "Manizales, Colombia"
+    "last_name_c": "López",
+    "phone_mobile_c": "3204567891",
+    "mail_c": "sebaslopezastu@gmail.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Manizales, Colombia"
   },
   {
     "name": "Diana",
-    "lastName": "Vargas",
-    "cell": "3055678901",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Bucaramanga, Colombia"
+    "last_name_c": "Vargas",
+    "phone_mobile_c": "3055678901",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Bucaramanga, Colombia"
   },
   {
     "name": "Juan",
-    "lastName": "Rojas",
-    "cell": "3112345678",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Cali, Colombia"
+    "last_name_c": "Rojas",
+    "phone_mobile_c": "3112345678",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Cali, Colombia"
   },
   {
     "name": "Paola",
-    "lastName": "Castillo",
-    "cell": "3187654321",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": true,
-    "location": "Bogotá, Colombia"
+    "last_name_c": "Castillo",
+    "phone_mobile_c": "3187654321",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": true,
+    "primary_address_city_c": "Bogotá, Colombia"
   },
   {
     "name": "Miguel",
-    "lastName": "Silva",
-    "cell": "3029876543",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Barranquilla, Colombia"
+    "last_name_c": "Silva",
+    "phone_mobile_c": "3029876543",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Barranquilla, Colombia"
   },
   {
     "name": "Laura",
-    "lastName": "Mejía",
-    "cell": "3198765432",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Santa Marta, Colombia"
+    "last_name_c": "Mejía",
+    "phone_mobile_c": "3198765432",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Santa Marta, Colombia"
   },
   {
     "name": "Jorge",
-    "lastName": "Álvarez",
-    "cell": "3012348907",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": false,
-    "location": "Cartagena, Colombia"
+    "last_name_c": "Álvarez",
+    "phone_mobile_c": "3012348907",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Cartagena, Colombia"
   },
   {
     "name": "Camila",
-    "lastName": "Guerrero",
-    "cell": "3109087654",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Bucaramanga, Colombia"
+    "last_name_c": "Guerrero",
+    "phone_mobile_c": "3109087654",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Bucaramanga, Colombia"
   },
   {
     "name": "Sebastián",
-    "lastName": "Molina",
-    "cell": "3045672189",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": true,
-    "location": "Bogotá, Colombia"
+    "last_name_c": "Molina",
+    "phone_mobile_c": "3045672189",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Bogotá, Colombia"
   },
   {
     "name": "Daniela",
-    "lastName": "Cortés",
-    "cell": "3123456789",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": false,
-    "location": "Medellín, Colombia"
+    "last_name_c": "Cortés",
+    "phone_mobile_c": "3123456789",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Medellín, Colombia"
   },
   {
     "name": "Santiago",
-    "lastName": "Sánchez",
-    "cell": "3036789124",
-    "mail": "test@mail.com",
-    "forecastBulletin": true,
-    "climaBulletin": true,
-    "location": "Pasto, Colombia"
+    "last_name_c": "Sánchez",
+    "phone_mobile_c": "3036789124",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": true,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Pasto, Colombia"
   },
   {
     "name": "Natalia",
-    "lastName": "Navarro",
-    "cell": "3056789123",
-    "mail": "test@mail.com",
-    "forecastBulletin": false,
-    "climaBulletin": false,
-    "location": "Armenia, Colombia"
+    "last_name_c": "Navarro",
+    "phone_mobile_c": "3056789123",
+    "mail_c": "test@mail_c.com",
+    "forecast_bulletin_c": false,
+    "clima_bulletin_c": false,
+    "primary_address_city_c": "Armenia, Colombia"
   }
 ]
