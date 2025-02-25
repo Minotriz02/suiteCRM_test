@@ -2,161 +2,135 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Boletín Climático - Asbama</title>
-    <style>
-      /* Estilos básicos para email (recomendado usar estilos en línea cuando sea necesario) */
-      body {
-        margin: 0;
-        padding: 0;
-        background-color: #f2f2f2;
-        font-family: Arial, sans-serif;
-      }
-      .container {
-        width: 100%;
-        background-color: #f2f2f2;
-        margin: 0 auto;
-        padding: 0;
-      }
-      /* Sección de encabezado con imagen de fondo */
-      .hero {
-        background: url("https://via.placeholder.com/600x300/915225/ffffff?text=Fondo+Boletin")
-          no-repeat center center;
-        /* Reemplaza la URL con tu imagen real */
-        background-size: cover;
-        text-align: center;
-        padding: 40px 20px;
-        color: #ffffff;
-      }
-      .hero h1 {
-        margin: 0;
-        font-size: 36px;
-        font-weight: bold;
-      }
-      .hero p {
-        margin: 5px 0 0;
-        font-size: 18px;
-      }
-      /* Sección de información principal */
-      .info-section {
-        background-color: #a45524; /* Un tono marrón/naranja */
-        color: #ffffff;
-        padding: 20px;
-        text-align: center;
-      }
-      .info-section h2 {
-        margin: 0;
-        font-size: 28px;
-        font-weight: normal;
-      }
-      .info-section .temp-range {
-        font-size: 16px;
-        margin-top: 5px;
-      }
-      .info-section .date {
-        font-size: 16px;
-        margin-top: 10px;
-      }
-      .info-section .location {
-        font-size: 14px;
-        margin-top: 10px;
-      }
-      /* Sección de datos adicionales */
-      .data-section {
-        background-color: #ffffff;
-        color: #333333;
-        padding: 20px;
-        text-align: center;
-      }
-      .data-section table {
-        margin: 0 auto;
-        border-collapse: collapse;
-      }
-      .data-section td {
-        padding: 10px 20px;
-        font-size: 14px;
-        border-bottom: 1px solid #eee;
-      }
-      .data-section td strong {
-        display: block;
-        font-size: 16px;
-        margin-bottom: 5px;
-      }
-      /* Pie de página o cierre */
-      .footer {
-        background-color: #f2f2f2;
-        text-align: center;
-        font-size: 12px;
-        color: #999999;
-        padding: 10px;
-      }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boletín Climático</title>
   </head>
-  <body>
-    <table
-      class="container"
-      width="100%"
-      border="0"
-      cellspacing="0"
-      cellpadding="0"
+  <body
+    style="
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    "
+  >
+    <!-- Contenedor principal -->
+    <div
+      style="
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #451925;
+        border-radius: 10px;
+        padding: 30px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      "
     >
-      <!-- Hero / Encabezado -->
-      <tr>
-        <td>
-          <div class="hero">
-            <h1>Boletín Climático</h1>
-            <p>Asbama</p>
-          </div>
-        </td>
-      </tr>
+      <!-- Encabezado -->
+      <div
+        style="
+          text-align: center;
+          border-bottom: 2px solid #eeeeee;
+          padding-bottom: 20px;
+          margin-bottom: 25px;
+          background: url('https://raw.githubusercontent.com/Minotriz02/suiteCRM_test/refs/heads/main/bg_clima.png')
+            no-repeat center center;
+        "
+      >
+        <h1 style="color: #2c3e50; margin: 0 0 5px 0">Boletín Climático</h1>
+        <p style="color: #7f8c8d; margin: 0; font-size: 14px">Asbama</p>
+      </div>
 
-      <!-- Sección de información principal -->
-      <tr>
-        <td>
-          <div class="info-section">
-            <h2>Soleado 28°C</h2>
-            <div class="temp-range">25°C - 30°C</div>
-            <div class="date">Jueves 11-07-2024</div>
-            <div class="location">Santiago de Cali</div>
-          </div>
-        </td>
-      </tr>
+      <!-- Estado actual -->
+      <div style="text-align: center; margin-bottom: 30px">
+        <div style="font-size: 24px; color: #e67e22; margin-bottom: 10px">
+          Soleado
+        </div>
+        <div
+          style="
+            font-size: 48px;
+            color: #e67e22;
+            font-weight: bold;
+            margin-bottom: 15px;
+          "
+        >
+          28°C
+        </div>
+        <div style="color: #95a5a6; font-size: 14px">
+          Jueves 11-07-2024<br />
+          Santiago de Cali
+        </div>
+      </div>
 
-      <!-- Sección de datos adicionales -->
-      <tr>
-        <td>
-          <div class="data-section">
-            <table>
-              <tr>
-                <td>
-                  <strong>18.5 mm</strong>
-                  Precipitación
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>21.4 MJ</strong>
-                  Radiación
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>3 mm</strong>
-                  Evapotranspiración
-                </td>
-              </tr>
-            </table>
-          </div>
-        </td>
-      </tr>
+      <!-- Detalles del clima -->
+      <div
+        style="
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 15px;
+          margin-bottom: 25px;
+        "
+      >
+        <div
+          style="
+            padding: 12px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+          "
+        >
+          <div style="color: #7f8c8d; font-size: 12px">Temperatura</div>
+          <div style="color: #2c3e50; font-weight: bold">25°C - 30°C</div>
+        </div>
+
+        <div
+          style="
+            padding: 12px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+          "
+        >
+          <div style="color: #7f8c8d; font-size: 12px">Precipitación</div>
+          <div style="color: #2c3e50; font-weight: bold">18.5mm</div>
+        </div>
+
+        <div
+          style="
+            padding: 12px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+          "
+        >
+          <div style="color: #7f8c8d; font-size: 12px">Radiación Solar</div>
+          <div style="color: #2c3e50; font-weight: bold">21.4MJ</div>
+        </div>
+
+        <div
+          style="
+            padding: 12px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+          "
+        >
+          <div style="color: #7f8c8d; font-size: 12px">Lluvia</div>
+          <div style="color: #2c3e50; font-weight: bold">3mm</div>
+        </div>
+      </div>
 
       <!-- Pie de página -->
-      <tr>
-        <td>
-          <div class="footer">
-            © 2024 Asbama - Todos los derechos reservados
-          </div>
-        </td>
-      </tr>
-    </table>
+      <div
+        style="
+          text-align: center;
+          color: #95a5a6;
+          font-size: 12px;
+          padding-top: 20px;
+          border-top: 1px solid #eeeeee;
+        "
+      >
+        Boletín generado automáticamente - Datos meteorológicos proporcionados
+        por Asbama
+      </div>
+    </div>
   </body>
 </html>
